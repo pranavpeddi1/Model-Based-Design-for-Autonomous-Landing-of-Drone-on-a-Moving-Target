@@ -2,6 +2,8 @@
 
 >> Flight Controller with Trajectory Planner is developed in one of my Project.Following is the link to navigate ...
 
+https://github.com/pranavpeddi1/Drone-Tracking-Trajectories-Simulation
+
 >> In the above project consider the Trajectory planner with Minimum Jerk Trajectory i.e 5th Degree Polynomial Equation.
 
 >>The current position of the drone and the target position of the Quadcopter is considered as the input conditions for the trajectory planner. 
